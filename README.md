@@ -45,3 +45,5 @@ Each of the steps of this procedure are shown below.  The left images display a 
     <td><img src="Images/T64_method_Step_04_Top_Zoom.png" height="300"></td>
   </tr>
 </table>
+
+If you have any questions on this procedure or if you have any comments, please feel free to contact me or take a look at my website (www.andrewstewart.ca).
